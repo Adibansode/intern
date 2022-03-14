@@ -1,0 +1,132 @@
+/* body{
+    margin: 0 22%;
+} */
+.navbar{
+    margin: 0 22%;
+    margin-top: 10px;
+    display: flex;
+   text-align: center;
+}
+.btn{
+    margin-left: 74%;
+    float: right;
+    background-color: rgb(91, 129, 235);
+    padding: 7px 15px;
+    border-radius: 10px;
+    color: white;
+    font-size: 13px;
+    }
+.container{
+    margin: 0 22%;
+    margin-top: 30px;
+    display: flex;
+    }
+.off{
+    border: 2px solid black;
+    width: 40%;
+    border-radius: 4px;
+    padding: 1.4% 2%;
+}
+.container img{
+    height: 350px;
+}
+.container h1{
+    font-size: 40px;
+}
+
+.domain{
+    margin: 0 22%;
+    font-family:sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    padding: 2%;
+    background-color: rgb(91, 129, 235);
+}
+.domain button{
+    background-color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+    color: rgb(91, 93, 235);
+    font-size: 14px;
+}
+.domain p{
+    color: rgb(217, 217, 250);
+}
+
+.info{
+    margin: 0 22%;
+    margin-top: 40px;
+    text-align: center;
+}
+.pricing{
+    margin: 0 22%;
+    display: flex;
+}
+.box-1{
+    text-align: center;
+    border: 1px solid rgb(91, 129, 235);
+}
+.box-1 p{
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+}
+.box-1 button{
+    padding: 2% 10%;
+    background-color: white;
+    border-radius: 3px;
+}
+.box-2{
+   text-align: center;
+}
+.box-2 .pop{
+    margin: auto;
+    width: 80%;
+    padding: 2% 0;
+    border-radius: 3px;
+    border: 1px solid;
+    background-color: rgb(49, 221, 135);
+    color: white;
+}
+.box-2 p{
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+}
+.box-2 button{
+    padding: 2% 15%;
+    background-color: rgb(91, 129, 235);
+    border-radius: 3px;
+    color: white;
+}
+
+.box-3{
+    text-align: center;
+    border: 1px solid rgb(91, 129, 235);
+}
+.box-3 p{
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+}
+.box-3 button{
+    padding: 2% 10%;
+    background-color: white;
+    border-radius: 3px;
+}
+.footer{
+    width: 100%;
+    margin-top: 50px;
+    padding: 2% 0;
+    text-align: center;
+    background-color: rgb(53, 36, 114);
+}
+.footer img{
+    height: 30px;
+}
+.footer p{
+    margin-top: 5px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: rgb(245, 245, 245);
+    font-size: 13px;
+}
